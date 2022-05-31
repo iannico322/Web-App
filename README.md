@@ -1,5 +1,11 @@
 # Web-App
 
+Requirements:
+1080p resolution screen( di ni responsive kapoy code)
+PHP
+XAMPP
+code below
+
 MySQL code to run the web-app:
 
 CREATE DATABASE IF NOT EXISTS newbies_db;
